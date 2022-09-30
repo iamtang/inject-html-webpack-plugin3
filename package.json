@@ -1,0 +1,28 @@
+{
+  "name": "inject-html-webpack-plugin3",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "files": [
+	  "index.js",
+    "lib",
+    "README.md",
+    "package.json"
+	],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtang/inject-html-webpack-plugin3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtang/inject-html-webpack-plugin3/issues"
+  },
+  "homepage": "https://github.com/iamtang/inject-html-webpack-plugin3#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^4.0.0-beta.8"
+  }
+}
